@@ -1,0 +1,14 @@
+{
+	"name": "twittersentiment",
+	"main": "./Twitter",
+	"description": "CloudFoundry twitter node integration",
+
+	"version": "0.1.0",
+	"dependencies": {
+		"twitter": "*",
+		"odata": "*",
+		"cfenv": "*",
+		"express": "*",
+		"node-cron":"*"
+	}
+}
