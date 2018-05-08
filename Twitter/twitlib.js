@@ -2,7 +2,7 @@
 var Twitter = require('twitter');
 var o = require('odata');
 
-
+// test for vscode 
 
 var client = new Twitter({
   consumer_key: 'aCyJ7cEB7ZPYE6BbpNiGno4bl',
